@@ -6,3 +6,5 @@ This is the G force meter using adxl345 and ssd1306 display, each curve represen
 |:---------:|:-----:|
 | Arduino Uno | Slow to render|
 | Raspberry Pi pico| Works fine |
+| ESP 32 | Bit faster pico |
+| STM32F401CCU6 | Works fine |
